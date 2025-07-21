@@ -13,7 +13,7 @@ Dokumen ini berisi dua bagian:
 - **Tulisan:** Proposal BI-OJK Hackathon 2025
 - **Judul Proyek:** AkselAI: Platform AI-sebagai-Layanan (AIaaS) untuk Akselerasi Inovasi Keuangan dan Layanan Publik
 - **Nama Tim:** [Aksel]
-- **Nama Anggota:** [Nama Lengkap Anda]
+- **Nama Anggota:** [Muhammad Alhabi]
 
 **Slide 2: Ringkasan Eksekutif (Maks. 1 slide)**
 - **Problem Statement:** Di tengah ledakan AI, banyak institusi keuangan, UMKM, dan lembaga pemerintah masih kesulitan membangun solusi AI yang spesifik untuk kebutuhan unik mereka. Mereka terjebak antara solusi generik yang tidak efektif atau biaya pengembangan kustom yang sangat mahal. Akibatnya, potensi AI untuk meningkatkan literasi keuangan, daya saing UMKM, dan efisiensi layanan publik belum termanfaatkan sepenuhnya.
@@ -21,12 +21,12 @@ Dokumen ini berisi dua bagian:
 - **Dampak Positif:** AkselAI secara langsung mendukung tema Hackathon dengan menjadi **akselerator inovasi**. Platform kami memungkinkan penciptaan layanan ekspor digital (Sub-tema 1), solusi literasi keuangan dan UMKM (Sub-tema 2), serta alat bantu analisis risiko (Sub-tema 3) dengan cepat dan efisien, mendorong pertumbuhan inklusif dan ekonomi yang tangguh.
 
 **Slide 3: Anggota Tim (Maks. 1 slide)**
-- **Nama Lengkap:** [Nama Anda]
-- **Kontak:** [Nomor Telepon/WA Anda]
+- **Nama Lengkap:** [Muhammad Alhabi]
+- **Kontak:** [085609497819]
 - **Email:** rgomet48@gmail.com
 - **Peran dalam tim:** Lead Developer & AI Architect
 - **Keahlian:** Full-stack development dengan Next.js & TypeScript, arsitektur dan implementasi solusi AI generatif menggunakan Google Genkit, perancangan UI/UX, dan product strategy.
-- **Link Portofolio:** [Link ke Repositori GitHub Proyek Ini]
+- **Link Portofolio:** [https://github.com/alhabi222/Aksel/edit/main/README.md]
 
 **Slide 4: Tujuan/Sasaran Proyek (Maks. 1 slide)**
 - **Tujuan Utama:** Mendemokratisasi akses pengembangan solusi AI di sektor keuangan dan layanan publik Indonesia.
