@@ -1,5 +1,5 @@
 # Aksel
-# Panduan Proposal & Kode Sumber Proyek AkselAI - BI-OJK Hackathon 2025
+# Proposal & Kode Sumber Proyek AkselAI - BI-OJK Hackathon 2025
 
 Dokumen ini berisi dua bagian:
 1.  **Panduan Proposal:** Kerangka kerja untuk menyusun presentasi (deck) Anda.
